@@ -1,0 +1,87 @@
+{
+	"Wisata" :  {
+		"Pisa" : {
+			"nama_wisata" : "Pisa",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-83072.appspot.com/o/Wisata%2FPisa%2Fbgheader_pisa.png?alt=media&token=13c5c146-f58f-49d0-8d3f-80cbbe582576"
+		},
+		"Torri" : {
+			"nama_wisata" : "Torri",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-83072.appspot.com/o/Wisata%2FTorri%2Fbgheader_torri.png?alt=media&token=d2ff3ecc-a802-4992-805c-4e86a2aef961"
+		},
+		"Monas" : {
+			"nama_wisata" : "Monas",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "..."
+		},
+		"Candi" : {
+			"nama_wisata" : "Candi",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-83072.appspot.com/o/Wisata%2FCandi%2Fbgheader_candi.png?alt=media&token=fe9946e6-ab48-447d-b165-987e28c97f1f"
+		},
+		"Pagoda" : {
+			"nama_wisata" : "Pagoda",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-83072.appspot.com/o/Wisata%2FPagoda%2Fbgheader_pagoda.png?alt=media&token=521fdf3f-0f08-4670-af17-8c0a03bbd2d7"
+		},
+		"Sphinx" : {
+			"nama_wisata" : "Sphinx",
+			"harga_tiket" : 20,
+			"lokasi" : "Pisa, Italy",
+			"is_photo_spot" : "4 Photo Spot",
+			"is_wifi" : "Wifi Available",
+			"short_desc" : "The leaning of the Tower of Pisa comes.",
+			"ketentuan" : "Anak berumur 3 tahun wajib beli tiket.",
+			"data_wisata" : "January 22 2018",
+			"time_wisata" : "10AM to 12 PM",
+			"url_thumbnail" : "..."
+		}
+	},
+	"Users" : {
+		"Muhammad Faisal" : {
+			"username" : "Muhammad Faisal",
+			"password" : "123abc",
+			"email_address" : "faisal@gmail.com",
+			"bio" : "TsunoCode",
+			"nama_engkap" : "Muhammad Faisal Abdul H",
+			"user_balance" : 800,
+			"url_photo_profile" : "..."
+		}
+	}
+}
